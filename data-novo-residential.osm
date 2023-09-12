@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmium/1.15.0">
+  <bounds minlat="-25.2" minlon="-51" maxlat="-25.17" maxlon="-50.97"/>
+  <node id="1139866228" version="3" timestamp="2021-04-30T07:03:29Z" uid="9847848" user="Guadiana" changeset="103889072" lat="-25.1978327" lon="-50.9958409"/>
+  <node id="2428391064" version="2" timestamp="2021-03-08T04:35:10Z" uid="10652851" user="Chemeketa" changeset="100602967" lat="-25.2055894" lon="-50.9699324"/>
+  <node id="2428391070" version="1" timestamp="2013-08-22T17:53:16Z" uid="1310899" user="Linhares" changeset="17459190" lat="-25.2067471" lon="-50.9694041"/>
+  <node id="2428575612" version="3" timestamp="2020-08-23T23:52:38Z" uid="3722925" user="DANIEL GONZAGA" changeset="89824306" lat="-25.1995919" lon="-50.9706044"/>
+  <node id="2428575618" version="2" timestamp="2015-06-23T18:37:25Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1999459" lon="-50.9719023"/>
+  <node id="2428576533" version="2" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2041383" lon="-50.9704399"/>
+  <node id="2444711120" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2033589" lon="-50.9900793"/>
+  <node id="2444711123" version="4" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.2018057" lon="-50.9867187"/>
+  <node id="2444711126" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.201454" lon="-50.9858637"/>
+  <node id="2444711129" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.201027" lon="-50.9849486"/>
+  <node id="2444711132" version="1" timestamp="2013-09-03T17:30:38Z" uid="1310899" user="Linhares" changeset="17657991" lat="-25.200615" lon="-50.9840297"/>
+  <node id="2444711135" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.199733" lon="-50.982171"/>
+  <node id="2444711142" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2007262" lon="-50.9867469"/>
+  <node id="2444711144" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2001306" lon="-50.9867563"/>
+  <node id="2444711147" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.199589" lon="-50.9867639"/>
+  <node id="2444711150" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1989051" lon="-50.9868034"/>
+  <node id="2444711153" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1982302" lon="-50.9868475"/>
+  <node id="2444711156" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1969014" lon="-50.9868713"/>
+  <node id="2444711159" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1962107" lon="-50.9868603"/>
+  <node id="2444711163" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1955237" lon="-50.986882"/>
+  <node id="2444711166" version="2" timestamp="2014-08-22T19:17:28Z" uid="381516" user="wesleygmartins" changeset="24939879" lat="-25.1948527" lon="-50.9868661"/>
+  <node id="2444711168" version="2" timestamp="2014-08-22T19:17:28Z" uid="381516" user="wesleygmartins" changeset="24939879" lat="-25.1941966" lon="-50.9868867"/>
+  <node id="2444711174" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1928461" lon="-50.9869371"/>
+  <node id="2444711176" version="3" timestamp="2021-02-23T10:58:41Z" uid="10652851" user="Chemeketa" changeset="99818838" lat="-25.2030757" lon="-50.9857508"/>
+  <node id="2444711178" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.199584" lon="-50.9858827"/>
+  <node id="2444711180" version="2" timestamp="2014-08-22T19:17:28Z" uid="381516" user="wesleygmartins" changeset="24939879" lat="-25.198245" lon="-50.9858756"/>
+  <node id="2444711181" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1968758" lon="-50.9859544"/>
+  <node id="2444711183" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1955243" lon="-50.9859563"/>
+  <node id="2444711185" version="2" timestamp="2014-08-22T19:17:28Z" uid="381516" user="wesleygmartins" changeset="24939879" lat="-25.1941762" lon="-50.9859516"/>
+  <node id="2444711187" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1928291" lon="-50.9859527"/>
+  <node id="2444711189" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1928043" lon="-50.9850839"/>
+  <node id="2444711190" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1941445" lon="-50.9850657"/>
+  <node id="2444711192" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1955044" lon="-50.9850686"/>
+  <node id="2444711194" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1968463" lon="-50.9850283"/>
+  <node id="2444711196" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1981932" lon="-50.9849918"/>
+  <node id="2444711198" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1995641" lon="-50.9849777"/>
+  <node id="2444711199" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1942205" lon="-50.9884692"/>
+  <node id="2444711201" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1941351" lon="-50.9834988"/>
+  <node id="2444711203" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1948728" lon="-50.9884492"/>
+  <node id="2444711205" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1955597" lon="-50.9884524"/>
+  <node id="2444711207" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1954679" lon="-50.9835043"/>
+  <node id="2444711209" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1962205" lon="-50.98847"/>
+  <node id="2444718509" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1968958" lon="-50.9884448"/>
+  <node id="2444718511" version="3" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1968352" lon="-50.9834665"/>
+  <node id="2444718513" version="2" timestamp="2021-02-23T11:30:38Z" uid="10652851" user="Chemeketa" changeset="99821597" lat="-25.1982508" lon="-50.9880306"/>
+  <node id="2444718515" version="2" timestamp="2015-06-23T18:37:24Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1982044" lon="-50.9841549"/>
+  <node id="2444718517" version="2" timestamp="2015-06-23T18:19:43Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1989522" lon="-50.9883856"/>
+  <node id="2444718519" version="3" timestamp="2021-02-23T10:45:35Z" uid="10652851" user="Chemeketa" changeset="99817601" lat="-25.199596" lon="-50.987995"/>
+  <node id="2444718521" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2001857" lon="-50.9884049"/>
+  <node id="2444718523" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2007721" lon="-50.9883678"/>
+  <node id="2444718527" version="3" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.201277" lon="-50.9867201"/>
+  <node id="2444718531" version="3" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.2021284" lon="-50.987402"/>
+  <node id="2444718533" version="2" timestamp="2021-02-23T12:21:25Z" uid="10652851" user="Chemeketa" changeset="99825687" lat="-25.200696" lon="-50.9842018"/>
+  <node id="2444742642" version="1" timestamp="2013-09-03T17:43:41Z" uid="1310899" user="Linhares" changeset="17658195" lat="-25.2003748" lon="-50.9718864"/>
+  <node id="2444742647" version="3" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2016782" lon="-50.9719068"/>
+  <node id="2444742648" version="1" timestamp="2013-09-03T17:43:41Z" uid="1310899" user="Linhares" changeset="17658195" lat="-25.2011239" lon="-50.9706843"/>
+  <node id="2444742660" version="3" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2029801" lon="-50.9719282"/>
+  <node id="2444742661" version="4" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2023578" lon="-50.9706826"/>
+  <node id="2444742666" version="3" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2041302" lon="-50.9718789"/>
+  <node id="2444742668" version="3" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2035075" lon="-50.9705784"/>
+  <node id="2444742700" version="2" timestamp="2021-03-08T04:35:10Z" uid="10652851" user="Chemeketa" changeset="100602967" lat="-25.2009037" lon="-50.9718752"/>
+  <node id="3035489190" version="2" timestamp="2021-02-23T10:34:45Z" uid="10652851" user="Chemeketa" changeset="99816653" lat="-25.2032722" lon="-50.9865756"/>
+  <node id="3613226369" version="2" timestamp="2021-04-30T07:03:29Z" uid="9847848" user="Guadiana" changeset="103889072" lat="-25.1985511" lon="-50.9951529"/>
+  <node id="3613226371" version="3" timestamp="2021-04-30T11:42:51Z" uid="9847848" user="Guadiana" changeset="103910147" lat="-25.1967347" lon="-50.99527"/>
+  <node id="3613226374" version="4" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.2025334" lon="-50.988408"/>
+  <node id="3613226375" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2014087" lon="-50.9883138"/>
+  <node id="3613226376" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.201003" lon="-50.9883435"/>
+  <node id="3613226377" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2004196" lon="-50.9883926"/>
+  <node id="3613226378" version="2" timestamp="2021-02-23T10:45:35Z" uid="10652851" user="Chemeketa" changeset="99817601" lat="-25.199694" lon="-50.9883826"/>
+  <node id="3613226379" version="1" timestamp="2015-06-23T18:19:40Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.199156" lon="-50.9883819"/>
+  <node id="3613226380" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1979795" lon="-50.9884413"/>
+  <node id="3613226381" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1982521" lon="-50.9884203"/>
+  <node id="3613226382" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1983352" lon="-50.989373"/>
+  <node id="3613226383" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1989294" lon="-50.9893457"/>
+  <node id="3613226384" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1996044" lon="-50.9883988"/>
+  <node id="3613226385" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1996192" lon="-50.9892076"/>
+  <node id="3613226388" version="3" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.2023789" lon="-50.9879805"/>
+  <node id="3613226390" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2027641" lon="-50.9888698"/>
+  <node id="3613226393" version="2" timestamp="2021-02-23T11:30:38Z" uid="10652851" user="Chemeketa" changeset="99821597" lat="-25.1982469" lon="-50.9879158"/>
+  <node id="3613226394" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1977067" lon="-50.987925"/>
+  <node id="3613226395" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.195873" lon="-50.9884608"/>
+  <node id="3613226396" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1931849" lon="-50.9885172"/>
+  <node id="3613226397" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1942451" lon="-50.9893837"/>
+  <node id="3613226398" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1948976" lon="-50.9893287"/>
+  <node id="3613226399" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1955401" lon="-50.9893507"/>
+  <node id="3613226400" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1934775" lon="-50.9869093"/>
+  <node id="3613226401" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1935499" lon="-50.9885053"/>
+  <node id="3613226402" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1935437" lon="-50.9893352"/>
+  <node id="3613226403" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1928621" lon="-50.987758"/>
+  <node id="3613226404" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1927712" lon="-50.9835125"/>
+  <node id="3613226405" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1919639" lon="-50.985993"/>
+  <node id="3613226406" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1916252" lon="-50.9850793"/>
+  <node id="3613226407" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1925665" lon="-50.9869232"/>
+  <node id="3613226408" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.192452" lon="-50.9868847"/>
+  <node id="3613226409" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1922727" lon="-50.9867361"/>
+  <node id="3613226410" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.1921183" lon="-50.9866645"/>
+  <node id="3613226411" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1919663" lon="-50.9866673"/>
+  <node id="3613226412" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1917874" lon="-50.986727"/>
+  <node id="3613226413" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1915874" lon="-50.9868104"/>
+  <node id="3613226414" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1914163" lon="-50.9842851"/>
+  <node id="3613226415" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1914247" lon="-50.983579"/>
+  <node id="3613226416" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1980533" lon="-50.9834414"/>
+  <node id="3613226417" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1927807" lon="-50.9842775"/>
+  <node id="3613226418" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1941257" lon="-50.9842482"/>
+  <node id="3613226419" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.195485" lon="-50.9842394"/>
+  <node id="3613226420" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1968491" lon="-50.9842183"/>
+  <node id="3613226421" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1995668" lon="-50.9841658"/>
+  <node id="3613226422" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1999095" lon="-50.9841687"/>
+  <node id="3613226423" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.2001" lon="-50.9841803"/>
+  <node id="3613226424" version="4" timestamp="2021-02-24T04:47:31Z" uid="10652851" user="Chemeketa" changeset="99869308" lat="-25.2004224" lon="-50.9842399"/>
+  <node id="3613226425" version="3" timestamp="2021-02-23T10:45:35Z" uid="10652851" user="Chemeketa" changeset="99817601" lat="-25.2006296" lon="-50.9842791"/>
+  <node id="3613226426" version="1" timestamp="2015-06-23T18:19:41Z" uid="1856060" user="patodiez" changeset="32167763" lat="-25.200739" lon="-50.9842918"/>
+  <node id="3613256441" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.2006532" lon="-50.9841056"/>
+  <node id="3613256442" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1997261" lon="-50.9840774"/>
+  <node id="3613256443" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1968453" lon="-50.9841096"/>
+  <node id="3613256444" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1954889" lon="-50.9841284"/>
+  <node id="3613256445" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1941323" lon="-50.9841529"/>
+  <node id="3613256446" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.192773" lon="-50.9841995"/>
+  <node id="3613256447" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1914149" lon="-50.9841806"/>
+  <node id="3613256448" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1982092" lon="-50.9840545"/>
+  <node id="3613256449" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1977455" lon="-50.9834418"/>
+  <node id="3613256450" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.197737" lon="-50.9840645"/>
+  <node id="3613256451" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.197737" lon="-50.9841663"/>
+  <node id="3613256452" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1996068" lon="-50.9820637"/>
+  <node id="3613256453" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1993569" lon="-50.9819645"/>
+  <node id="3613256454" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1990705" lon="-50.9818813"/>
+  <node id="3613256455" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1988375" lon="-50.9817284"/>
+  <node id="3613256456" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1987177" lon="-50.9815234"/>
+  <node id="3613256457" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.198663" lon="-50.9813473"/>
+  <node id="3613256458" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.198658" lon="-50.9810941"/>
+  <node id="3613256459" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1986281" lon="-50.9799216"/>
+  <node id="3613256460" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1986181" lon="-50.9796519"/>
+  <node id="3613256461" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1985833" lon="-50.9794427"/>
+  <node id="3613256462" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1984338" lon="-50.979184"/>
+  <node id="3613256463" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1977963" lon="-50.977874"/>
+  <node id="3613256464" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1968898" lon="-50.9758924"/>
+  <node id="3613256467" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.2002019" lon="-50.9831178"/>
+  <node id="3613256471" version="1" timestamp="2015-06-23T18:37:20Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1999136" lon="-50.9824727"/>
+  <node id="3614050764" version="2" timestamp="2021-03-08T04:35:10Z" uid="10652851" user="Chemeketa" changeset="100602967" lat="-25.2007831" lon="-50.9718747"/>
+  <node id="3614050765" version="3" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.2003447" lon="-50.9706577"/>
+  <node id="3614050768" version="2" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437" lat="-25.2047272" lon="-50.9703108"/>
+  <node id="3614092110" version="2" timestamp="2021-04-30T07:22:32Z" uid="9847848" user="Guadiana" changeset="103890610" lat="-25.1967647" lon="-50.9957955"/>
+  <node id="6054424239" version="2" timestamp="2021-02-23T10:58:41Z" uid="10652851" user="Chemeketa" changeset="99818838" lat="-25.1960756" lon="-50.9894023"/>
+  <node id="6054424240" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1961351" lon="-50.9889525"/>
+  <node id="6054424241" version="1" timestamp="2018-11-12T09:34:41Z" uid="3984659" user="DressyPear4" changeset="64398448" lat="-25.1962188" lon="-50.9887022"/>
+  <node id="6228720489" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1975427" lon="-50.988457"/>
+  <node id="8448957912" version="2" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.2029773" lon="-50.9866297"/>
+  <node id="8448989177" version="1" timestamp="2021-02-23T10:45:35Z" uid="10652851" user="Chemeketa" changeset="99817601" lat="-25.1986348" lon="-50.9801836"/>
+  <node id="8448989197" version="2" timestamp="2021-02-24T04:47:31Z" uid="10652851" user="Chemeketa" changeset="99869308" lat="-25.2004509" lon="-50.9841079"/>
+  <node id="8453992945" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2032967" lon="-50.9899611"/>
+  <node id="8495684582" version="1" timestamp="2021-03-08T04:35:10Z" uid="10652851" user="Chemeketa" changeset="100602967" lat="-25.2001413" lon="-50.9718956"/>
+  <node id="8683780514" version="1" timestamp="2021-04-30T11:42:51Z" uid="9847848" user="Guadiana" changeset="103910147" lat="-25.1983436" lon="-50.9951569"/>
+  <node id="8723386415" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1928784" lon="-50.9879723"/>
+  <node id="8723386416" version="2" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1930492" lon="-50.9882445"/>
+  <node id="8723387117" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.1995674" lon="-50.9846118"/>
+  <node id="8723387118" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.1979406" lon="-50.9781706"/>
+  <node id="8723387119" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.195869" lon="-50.9782338"/>
+  <node id="8723387120" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.1957345" lon="-50.9782644"/>
+  <node id="8723387121" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.1953864" lon="-50.9784131"/>
+  <node id="8723387122" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.1952717" lon="-50.9784349"/>
+  <node id="8723387123" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383" lat="-25.1946665" lon="-50.9784393"/>
+  <node id="11118736801" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1920988" lon="-50.9842035"/>
+  <node id="11118736802" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1917496" lon="-50.9842027"/>
+  <node id="11118736803" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1915458" lon="-50.9842158"/>
+  <node id="11118736804" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1914003" lon="-50.9839415"/>
+  <node id="11118817105" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1914779" lon="-50.9842223"/>
+  <node id="11118817106" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1934592" lon="-50.9842655"/>
+  <node id="11118817107" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1934454" lon="-50.9841842"/>
+  <node id="11118817108" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1938447" lon="-50.9841739"/>
+  <node id="11118817109" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1941167" lon="-50.9838607"/>
+  <node id="11118817110" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1968574" lon="-50.9854833"/>
+  <node id="11118817111" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.1960631" lon="-50.989133"/>
+  <node id="11118817112" version="1" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879" lat="-25.2019783" lon="-50.9883854"/>
+  <node id="11118967811" version="1" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147" lat="-25.2022649" lon="-50.9858479"/>
+  <way id="236436505" version="8" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383">
+    <nd ref="2444711120"/>
+    <nd ref="8453992945"/>
+    <nd ref="3613226390"/>
+    <nd ref="3613226374"/>
+    <nd ref="3613226388"/>
+    <nd ref="2444718531"/>
+    <nd ref="2444711123"/>
+    <nd ref="2444711126"/>
+    <nd ref="2444711129"/>
+    <nd ref="3613226426"/>
+    <nd ref="2444718533"/>
+    <nd ref="3613256441"/>
+    <nd ref="2444711132"/>
+    <nd ref="3613256467"/>
+    <nd ref="3613256471"/>
+    <nd ref="2444711135"/>
+    <nd ref="3613256452"/>
+    <nd ref="3613256453"/>
+    <nd ref="3613256454"/>
+    <nd ref="3613256455"/>
+    <nd ref="3613256456"/>
+    <nd ref="3613256457"/>
+    <nd ref="3613256458"/>
+    <nd ref="8448989177"/>
+    <nd ref="3613256459"/>
+    <nd ref="3613256460"/>
+    <nd ref="3613256461"/>
+    <nd ref="3613256462"/>
+    <nd ref="8723387118"/>
+    <nd ref="3613256463"/>
+    <nd ref="3613256464"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Prefeito Altivo Barreto Alves"/>
+  </way>
+  <way id="236436506" version="7" timestamp="2021-02-23T10:34:45Z" uid="10652851" user="Chemeketa" changeset="99816653">
+    <nd ref="3035489190"/>
+    <nd ref="8448957912"/>
+    <nd ref="2444711123"/>
+    <nd ref="2444718527"/>
+    <nd ref="2444711142"/>
+    <nd ref="2444711144"/>
+    <nd ref="2444711147"/>
+    <nd ref="2444711150"/>
+    <nd ref="2444711153"/>
+    <nd ref="2444711156"/>
+    <nd ref="2444711159"/>
+    <nd ref="2444711163"/>
+    <nd ref="2444711166"/>
+    <nd ref="2444711168"/>
+    <nd ref="3613226400"/>
+    <nd ref="2444711174"/>
+    <nd ref="3613226407"/>
+    <nd ref="3613226408"/>
+    <nd ref="3613226409"/>
+    <nd ref="3613226410"/>
+    <nd ref="3613226411"/>
+    <nd ref="3613226412"/>
+    <nd ref="3613226413"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Doutor Geraldo de Carvalho"/>
+  </way>
+  <way id="236436507" version="5" timestamp="2023-08-16T12:46:49Z" uid="20078727" user="Isabela Gravatá" changeset="139963147">
+    <nd ref="2444711176"/>
+    <nd ref="11118967811"/>
+    <nd ref="2444711126"/>
+    <nd ref="2444711178"/>
+    <nd ref="2444711180"/>
+    <nd ref="2444711181"/>
+    <nd ref="2444711183"/>
+    <nd ref="2444711185"/>
+    <nd ref="2444711187"/>
+    <nd ref="3613226405"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua 7 de Setembro"/>
+  </way>
+  <way id="236436508" version="3" timestamp="2015-06-24T04:23:28Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226406"/>
+    <nd ref="2444711189"/>
+    <nd ref="2444711190"/>
+    <nd ref="2444711192"/>
+    <nd ref="2444711194"/>
+    <nd ref="2444711196"/>
+    <nd ref="2444711198"/>
+    <nd ref="2444711129"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Tancredo Neves"/>
+  </way>
+  <way id="236436509" version="5" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="3613226397"/>
+    <nd ref="2444711199"/>
+    <nd ref="2444711168"/>
+    <nd ref="2444711185"/>
+    <nd ref="2444711190"/>
+    <nd ref="3613226418"/>
+    <nd ref="3613256445"/>
+    <nd ref="11118817109"/>
+    <nd ref="2444711201"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Gerson Sanches"/>
+  </way>
+  <way id="236436510" version="3" timestamp="2015-06-24T04:23:28Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226398"/>
+    <nd ref="2444711203"/>
+    <nd ref="2444711166"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Tom Jobim"/>
+  </way>
+  <way id="236436511" version="4" timestamp="2015-06-24T04:23:27Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226399"/>
+    <nd ref="2444711205"/>
+    <nd ref="2444711163"/>
+    <nd ref="2444711183"/>
+    <nd ref="2444711192"/>
+    <nd ref="3613226419"/>
+    <nd ref="3613256444"/>
+    <nd ref="2444711207"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Oscar Rickli"/>
+  </way>
+  <way id="236436512" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="6054424239"/>
+    <nd ref="11118817111"/>
+    <nd ref="6054424240"/>
+    <nd ref="6054424241"/>
+    <nd ref="2444711209"/>
+    <nd ref="2444711159"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Milton Copack"/>
+  </way>
+  <way id="236436933" version="5" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="2444718509"/>
+    <nd ref="2444711156"/>
+    <nd ref="2444711181"/>
+    <nd ref="11118817110"/>
+    <nd ref="2444711194"/>
+    <nd ref="3613226420"/>
+    <nd ref="3613256443"/>
+    <nd ref="2444718511"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Boqueirão"/>
+  </way>
+  <way id="236436934" version="4" timestamp="2015-06-24T04:23:27Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226382"/>
+    <nd ref="3613226381"/>
+    <nd ref="2444718513"/>
+    <nd ref="3613226393"/>
+    <nd ref="2444711153"/>
+    <nd ref="2444711180"/>
+    <nd ref="2444711196"/>
+    <nd ref="2444718515"/>
+    <nd ref="3613256448"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Germano Servat"/>
+  </way>
+  <way id="236436936" version="3" timestamp="2015-06-24T04:23:27Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226383"/>
+    <nd ref="2444718517"/>
+    <nd ref="2444711150"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Ipiranga"/>
+  </way>
+  <way id="236436937" version="3" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383">
+    <nd ref="2444718519"/>
+    <nd ref="2444711147"/>
+    <nd ref="2444711178"/>
+    <nd ref="2444711198"/>
+    <nd ref="8723387117"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Chico Mendes"/>
+  </way>
+  <way id="236440013" version="7" timestamp="2023-08-16T12:10:53Z" uid="20078727" user="Isabela Gravatá" changeset="139961437">
+    <nd ref="2428575618"/>
+    <nd ref="8495684582"/>
+    <nd ref="2444742642"/>
+    <nd ref="3614050764"/>
+    <nd ref="2444742700"/>
+    <nd ref="2444742647"/>
+    <nd ref="2444742660"/>
+    <nd ref="2444742666"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua José Bonifácio"/>
+  </way>
+  <way id="236440015" version="3" timestamp="2015-06-24T05:57:45Z" uid="1856060" user="patodiez" changeset="32175264">
+    <nd ref="2428575612"/>
+    <nd ref="3614050765"/>
+    <nd ref="2444742648"/>
+    <nd ref="2444742661"/>
+    <nd ref="2444742668"/>
+    <nd ref="2428576533"/>
+    <nd ref="3614050768"/>
+    <nd ref="2428391064"/>
+    <nd ref="2428391070"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua José Mroczko"/>
+  </way>
+  <way id="355787147" version="3" timestamp="2021-04-30T11:42:51Z" uid="9847848" user="Guadiana" changeset="103910147">
+    <nd ref="3613226369"/>
+    <nd ref="8683780514"/>
+    <nd ref="3613226371"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Ivai"/>
+  </way>
+  <way id="355787150" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="3613226374"/>
+    <nd ref="11118817112"/>
+    <nd ref="3613226375"/>
+    <nd ref="3613226376"/>
+    <nd ref="2444718523"/>
+    <nd ref="3613226377"/>
+    <nd ref="2444718521"/>
+    <nd ref="3613226378"/>
+    <nd ref="3613226384"/>
+    <nd ref="3613226379"/>
+    <nd ref="2444718517"/>
+    <nd ref="3613226381"/>
+    <nd ref="3613226380"/>
+    <nd ref="6228720489"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="355787151" version="2" timestamp="2015-06-24T04:23:27Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226384"/>
+    <nd ref="3613226385"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Chico Mendes"/>
+  </way>
+  <way id="355787154" version="1" timestamp="2015-06-23T18:19:42Z" uid="1856060" user="patodiez" changeset="32167763">
+    <nd ref="3613226393"/>
+    <nd ref="3613226394"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="355787155" version="2" timestamp="2019-01-23T04:50:25Z" uid="1856060" user="patodiez" changeset="66557966">
+    <nd ref="6228720489"/>
+    <nd ref="2444718509"/>
+    <nd ref="2444711209"/>
+    <nd ref="3613226395"/>
+    <nd ref="2444711205"/>
+    <nd ref="2444711203"/>
+    <nd ref="2444711199"/>
+    <nd ref="3613226401"/>
+    <nd ref="3613226396"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="355787156" version="2" timestamp="2015-06-24T04:23:28Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="3613226400"/>
+    <nd ref="3613226401"/>
+    <nd ref="3613226402"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Irma Dulce"/>
+  </way>
+  <way id="355787157" version="4" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383">
+    <nd ref="3613226396"/>
+    <nd ref="8723386416"/>
+    <nd ref="8723386415"/>
+    <nd ref="3613226403"/>
+    <nd ref="2444711174"/>
+    <nd ref="2444711187"/>
+    <nd ref="2444711189"/>
+    <nd ref="3613226417"/>
+    <nd ref="3613256446"/>
+    <nd ref="3613226404"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua General Carneiro"/>
+  </way>
+  <way id="355787158" version="3" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="3613226414"/>
+    <nd ref="3613256447"/>
+    <nd ref="11118736804"/>
+    <nd ref="3613226415"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="355787159" version="2" timestamp="2015-06-23T18:37:27Z" uid="1856060" user="patodiez" changeset="32168115">
+    <nd ref="3613226415"/>
+    <nd ref="3613226404"/>
+    <nd ref="2444711201"/>
+    <nd ref="2444711207"/>
+    <nd ref="2444718511"/>
+    <nd ref="3613256449"/>
+    <nd ref="3613226416"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="355787160" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="3613226414"/>
+    <nd ref="3613226417"/>
+    <nd ref="11118817106"/>
+    <nd ref="3613226418"/>
+    <nd ref="3613226419"/>
+    <nd ref="3613226420"/>
+    <nd ref="3613256451"/>
+    <nd ref="2444718515"/>
+    <nd ref="3613226421"/>
+    <nd ref="3613226422"/>
+    <nd ref="3613226423"/>
+    <nd ref="3613226424"/>
+    <nd ref="3613226425"/>
+    <nd ref="3613226426"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="355789499" version="4" timestamp="2023-08-16T11:17:48Z" uid="20078727" user="Isabela Gravatá" changeset="139958879">
+    <nd ref="3613256441"/>
+    <nd ref="8448989197"/>
+    <nd ref="3613256442"/>
+    <nd ref="3613256448"/>
+    <nd ref="3613256450"/>
+    <nd ref="3613256443"/>
+    <nd ref="3613256444"/>
+    <nd ref="3613256445"/>
+    <nd ref="11118817108"/>
+    <nd ref="11118817107"/>
+    <nd ref="3613256446"/>
+    <nd ref="11118736801"/>
+    <nd ref="11118736802"/>
+    <nd ref="11118736803"/>
+    <nd ref="11118817105"/>
+    <nd ref="3613256447"/>
+    <tag k="highway" v="residential"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="355789500" version="1" timestamp="2015-06-23T18:37:23Z" uid="1856060" user="patodiez" changeset="32168115">
+    <nd ref="3613256449"/>
+    <nd ref="3613256450"/>
+    <nd ref="3613256451"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="355861207" version="1" timestamp="2015-06-24T04:23:23Z" uid="1856060" user="patodiez" changeset="32174485">
+    <nd ref="1139866228"/>
+    <nd ref="3614092110"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rua Piquiri"/>
+  </way>
+  <way id="909957882" version="1" timestamp="2021-02-23T10:45:35Z" uid="10652851" user="Chemeketa" changeset="99817601">
+    <nd ref="3613226384"/>
+    <nd ref="2444718519"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="942008290" version="1" timestamp="2021-05-12T01:20:07Z" uid="1856060" user="patodiez" changeset="104539383">
+    <nd ref="8723387118"/>
+    <nd ref="8723387119"/>
+    <nd ref="8723387120"/>
+    <nd ref="8723387121"/>
+    <nd ref="8723387122"/>
+    <nd ref="8723387123"/>
+    <tag k="highway" v="residential"/>
+  </way>
+</osm>
