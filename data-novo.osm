@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmium/1.15.0">
+  <bounds minlat="-25.2" minlon="-51" maxlat="-25.17" maxlon="-50.97"/>
+  <node id="657957446" version="1" timestamp="2010-03-01T10:37:44Z" uid="17497" user="katpatuka" changeset="4007375" lat="-25.199103" lon="-50.969493"/>
+  <node id="657957447" version="1" timestamp="2010-03-01T10:37:44Z" uid="17497" user="katpatuka" changeset="4007375" lat="-25.198874" lon="-50.96768"/>
+  <node id="657957449" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.199145" lon="-50.9666506"/>
+  <node id="657957451" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2005914" lon="-50.9625897"/>
+  <node id="657957453" version="3" timestamp="2021-03-08T04:51:42Z" uid="10652851" user="Chemeketa" changeset="100603914" lat="-25.2012499" lon="-50.9591818"/>
+  <node id="657957454" version="3" timestamp="2021-03-08T04:51:42Z" uid="10652851" user="Chemeketa" changeset="100603914" lat="-25.2013275" lon="-50.9567812"/>
+  <node id="657957456" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2015627" lon="-50.9524393"/>
+  <node id="2444718560" version="3" timestamp="2021-02-26T07:27:15Z" uid="10652851" user="Chemeketa" changeset="100028171" lat="-25.2001688" lon="-50.9736691"/>
+  <node id="2444718569" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1998713" lon="-50.972495"/>
+  <node id="3613260435" version="2" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2014069" lon="-50.9547308"/>
+  <node id="3613260436" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2008931" lon="-50.9616977"/>
+  <node id="3613260437" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2011722" lon="-50.9603861"/>
+  <node id="3613260438" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2010533" lon="-50.9611157"/>
+  <node id="3613260439" version="1" timestamp="2015-06-23T18:37:21Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.1989654" lon="-50.9671709"/>
+  <node id="3613260440" version="1" timestamp="2015-06-23T18:37:21Z" uid="1856060" user="patodiez" changeset="32168115" lat="-25.198912" lon="-50.9687373"/>
+  <node id="3613260441" version="2" timestamp="2021-03-08T04:51:42Z" uid="10652851" user="Chemeketa" changeset="100603914" lat="-25.1988496" lon="-50.9682798"/>
+  <node id="3614092120" version="2" timestamp="2017-08-26T20:34:05Z" uid="2339960" user="adrianojbr" changeset="51467944" lat="-25.2023344" lon="-50.9819982"/>
+  <node id="5191133515" version="2" timestamp="2021-02-23T09:28:34Z" uid="10652851" user="Chemeketa" changeset="99810625" lat="-25.1999972" lon="-50.9729653"/>
+  <node id="5218057855" version="3" timestamp="2021-03-24T06:52:43Z" uid="9225258" user="PlazaBaquedano" changeset="101619767" lat="-25.202062" lon="-50.9487415"/>
+  <node id="6228720490" version="2" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.201454" lon="-50.9535095"/>
+  <node id="6732027731" version="2" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2014111" lon="-50.9544958"/>
+  <node id="6732027784" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2003121" lon="-50.9633898"/>
+  <node id="6732027804" version="3" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.201114" lon="-50.9608045"/>
+  <node id="6732027828" version="2" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2018396" lon="-50.95032"/>
+  <node id="6839361138" version="1" timestamp="2019-10-01T04:33:46Z" uid="1856060" user="patodiez" changeset="75127189" lat="-25.1997198" lon="-50.9718695"/>
+  <node id="8448763275" version="2" timestamp="2021-02-26T07:27:15Z" uid="10652851" user="Chemeketa" changeset="100028171" lat="-25.2002008" lon="-50.973795"/>
+  <node id="8460250720" version="1" timestamp="2021-02-26T07:27:15Z" uid="10652851" user="Chemeketa" changeset="100028171" lat="-25.2003647" lon="-50.9744253"/>
+  <node id="8496848610" version="1" timestamp="2021-03-08T12:11:31Z" uid="10652851" user="Chemeketa" changeset="100636470" lat="-25.1994658" lon="-50.9708909"/>
+  <node id="8496848613" version="2" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.1992436" lon="-50.9663678"/>
+  <node id="8522112925" version="1" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.1997646" lon="-50.9649003"/>
+  <node id="8522112926" version="1" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2007548" lon="-50.9621242"/>
+  <node id="8522112927" version="1" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2012208" lon="-50.9598631"/>
+  <node id="8522112935" version="1" timestamp="2021-03-15T19:46:27Z" uid="11455881" user="ProjetoMapeia" changeset="101072365" lat="-25.2015023" lon="-50.9529363"/>
+  <way id="355861212" version="12" timestamp="2021-03-24T06:46:51Z" uid="9225258" user="PlazaBaquedano" changeset="101619307">
+    <nd ref="3614092120"/>
+    <nd ref="8460250720"/>
+    <nd ref="8448763275"/>
+    <nd ref="2444718560"/>
+    <nd ref="5191133515"/>
+    <nd ref="2444718569"/>
+    <nd ref="6839361138"/>
+    <nd ref="8496848610"/>
+    <nd ref="657957446"/>
+    <nd ref="3613260440"/>
+    <nd ref="3613260441"/>
+    <nd ref="657957447"/>
+    <nd ref="3613260439"/>
+    <nd ref="657957449"/>
+    <nd ref="8496848613"/>
+    <nd ref="8522112925"/>
+    <nd ref="6732027784"/>
+    <nd ref="657957451"/>
+    <nd ref="8522112926"/>
+    <nd ref="3613260436"/>
+    <nd ref="3613260438"/>
+    <nd ref="6732027804"/>
+    <nd ref="3613260437"/>
+    <nd ref="8522112927"/>
+    <nd ref="657957453"/>
+    <nd ref="657957454"/>
+    <nd ref="3613260435"/>
+    <nd ref="6732027731"/>
+    <nd ref="6228720490"/>
+    <nd ref="8522112935"/>
+    <nd ref="657957456"/>
+    <nd ref="6732027828"/>
+    <nd ref="5218057855"/>
+    <tag k="highway" v="trunk"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="ref" v="BR-373"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <relation id="5313567" version="1" timestamp="2015-06-24T04:23:23Z" uid="1856060" user="patodiez" changeset="32174485">
+    <member type="way" ref="355861208" role="from"/>
+    <member type="node" ref="3614092120" role="via"/>
+    <member type="way" ref="355861210" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="5313568" version="2" timestamp="2021-02-24T04:26:36Z" uid="10652851" user="Chemeketa" changeset="99867918">
+    <member type="way" ref="355861208" role="from"/>
+    <member type="node" ref="3614092120" role="via"/>
+    <member type="way" ref="910309783" role="to"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="5313569" version="2" timestamp="2021-02-24T04:26:36Z" uid="10652851" user="Chemeketa" changeset="99867918">
+    <member type="node" ref="3614092120" role="via"/>
+    <member type="way" ref="355861210" role="to"/>
+    <member type="way" ref="910309783" role="from"/>
+    <tag k="restriction" v="no_left_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="12484956" version="1" timestamp="2021-03-24T06:52:43Z" uid="9225258" user="PlazaBaquedano" changeset="101619767">
+    <member type="way" ref="921582177" role="from"/>
+    <member type="node" ref="5218057855" role="via"/>
+    <member type="way" ref="355861212" role="to"/>
+    <tag k="restriction" v="only_straight_on"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>
